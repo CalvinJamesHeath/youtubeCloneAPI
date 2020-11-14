@@ -17,7 +17,7 @@ class App extends React.Component {
       params: {
         part: "snippet",
         maxResults: 5,
-        key: "AIzaSyALzPkCwqHC9kjGxc4RKvMZra4BbpmzeAo",
+        key: "[your google key]",
         q: searchTerm,
         // q => searchTerm
       },
